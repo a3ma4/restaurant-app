@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.RestaurantApp" parent="Theme.Material3.DayNight.NoActionBar" />
+    <style name="Theme.RestaurantApp" parent="Base.Theme.RestaurantApp">
+        <item name="bottomNavigationStyle">@style/Widget.RestaurantApp.BottomNavigation</item>
+    </style>
+
+
+    <style name="Widget.RestaurantApp" parent="Widget.MaterialComponents.Button" />
+
+    <style name="Widget.RestaurantApp.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:minHeight">48dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+        <item name="cornerRadius">30dp</item>
+    </style>
+
+    <style name="Widget.RestaurantApp.Toolbar.Transparent" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="titleTextColor">@android:color/white</item>
+        <item name="titleTextAppearance">@style/Toolbar.TitleText</item>
+        <item name="elevation">6dp</item>
+    </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="Widget.RestaurantApp.RadioButton" parent="Widget.MaterialComponents.CompoundButton.RadioButton">
+        <item name="android:textColor">@color/radio_button_color</item>
+        <item name="buttonTint">@color/radio_button_color</item>
+        <item name="android:paddingStart">8dp</item>
+        <item name="android:paddingEnd">8dp</item>
+    </style>
+
+
+    <style name="Widget.RestaurantApp.Button.Primary" parent="Widget.RestaurantApp.Button">
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Widget.RestaurantApp.Button.Secondary" parent="Widget.RestaurantApp.Button">
+        <item name="android:backgroundTint">@color/grayLight</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="Widget.RestaurantApp.Button.Danger" parent="Widget.RestaurantApp.Button">
+        <item name="android:backgroundTint">@color/colorAccent</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Widget.RestaurantApp.OnboardingButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/truck_red</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">30dp</item>
+    </style>
+
+    <style name="Widget.RestaurantApp.DotsIndicator">
+        <item name="dotsColor">@color/truck_red_light</item>
+        <item name="selectedDotColor">@color/truck_red</item>
+        <item name="dotsSize">8dp</item>
+        <item name="dotsSpacing">6dp</item>
+    </style>
+
+    <style name="CustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabTextColor">@color/gray</item>
+        <item name="tabSelectedTextColor">@color/truck_red</item>
+        <item name="tabIndicatorColor">@color/truck_red</item>
+    </style>
+
+    <style name="CustomTabLayoutHome" parent="Widget.Design.TabLayout">
+        <item name="tabTextColor">@android:color/darker_gray</item>
+        <item name="tabSelectedTextColor">@color/red_custom</item>
+        <item name="tabIndicatorColor">@color/red_custom</item>
+    </style>
+
+    <style name="Widget.RestaurantApp.BottomNavigation" parent="Widget.Material3.BottomNavigationView">
+        <item name="itemTextColor">@color/nav_item_color</item>
+        <item name="itemIconTint">@null</item>
+    </style>
+
+
+
+
+</resources>

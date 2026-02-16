@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق المطعم</string>
+
+    <string name="hint_email">البريد الإلكتروني</string>
+    <string name="hint_password">كلمة المرور</string>
+    <string name="hint_confirm_password">تأكيد كلمة المرور</string>
+    <string name="btn_login">تسجيل الدخول</string>
+    <string name="btn_signup">إنشاء حساب</string>
+    <string name="btn_admin_login">تسجيل دخول كأدمن</string>
+    <string name="txt_enter_code">أدخل الكود</string>
+    <string name="txt_welcome">مرحبا</string>
+    <string name="txt_name">الاسم</string>
+    <string name="txt_first_name">الاسم الأول</string>
+    <string name="txt_last_name">الاسم الأخير</string>
+    <string name="txt_address">العنوان</string>
+    <string name="txt_phone">الهاتف</string>
+    <string name="txt_main_title">العنوان الرئيسي</string>
+
+    <string name="open_nav">فتح القائمة</string>
+    <string name="close_nav">إغلاق القائمة</string>
+
+
+    <string name="btn_add_to_cart">إضافة للسلة</string>
+    <string name="btn_checkout">إتمام الطلب</string>
+    <string name="txt_quantity">الكمية</string>
+    <string name="txt_total">المجموع</string>
+    <string name="txt_grand_total">الإجمالي</string>
+    <string name="txt_empty_cart">سلة التسوق فارغة</string>
+    <string name="txt_price">السعر</string>
+    <string name="txt_description">الوصف</string>
+    <string name="currency_ils">شيكل</string>
+
+    <string name="txt_credit_card">بطاقة ائتمانية</string>
+    <string name="txt_card_number">رقم البطاقة</string>
+    <string name="btn_pay">دفع</string>
+    <string name="btn_next">التالي</string>
+
+    <string name="btn_save">حفظ</string>
+    <string name="btn_edit">تعديل</string>
+    <string name="btn_submit">إرسال</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="btn_ok">موافق</string>
+    <string name="btn_retry">إعادة المحاولة</string>
+    <string name="btn_select_image">اختيار صورة</string>
+
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_orders">الطلبات</string>
+    <string name="nav_cart">عربة التسوق</string>
+    <string name="nav_profile">الملف الشخصي</string>
+    <string name="nav_about">حول التطبيق</string>
+    <string name="nav_language">تغيير اللغة</string>
+    <string name="nav_logout">تسجيل الخروج</string>
+
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_orders">الطلبات</string>
+    <string name="menu_cart">العربة</string>
+    <string name="menu_profile">الملف</string>
+
+    <string name="tab_menu">القائمة</string>
+    <string name="tab_reviews">المراجعات</string>
+    <string name="tab_info">معلومات</string>
+
+    <string name="cat_desserts">الحلويات</string>
+    <string name="cat_pastries">المعجنات</string>
+    <string name="cat_drinks">المشروبات</string>
+    <string name="cat_main_meals">الوجبات الرئيسية</string>
+    <string name="cat_appetizers">المقبلات</string>
+    <string name="cat_salads">السلطات</string>
+    <string name="cat_soups">الشوربات</string>
+
+    <string name="txt_loading">جاري التحميل...</string>
+    <string name="txt_error">خطأ</string>
+    <string name="txt_search">بحث</string>
+    <string name="txt_settings">الإعدادات</string>
+    <string name="txt_contact">اتصل بنا</string>
+    <string name="txt_reviews">المراجعات</string>
+    <string name="currency_shekel">شيكل</string>
+    <string name="txt_product_list">قائمة المنتجات</string>
+    <string name="txt_total_amount">الإجمالي</string>
+    <string name="txt_my_account">حسابي</string>
+    <string name="tab_login">تسجيل دخول</string>
+    <string name="tab_register">إنشاء حساب</string>
+    <string name="tab_pastries">معجنات</string>
+    <string name="tab_sweets">حلويات</string>
+        <string name="onboard_title_fast">سرعة التوصيل</string>
+        <string name="onboard_desc_fast">نوصل الطلب بسرعة وأمان</string>
+
+        <string name="onboard_title_healthy">منتجات طبيعية</string>
+        <string name="onboard_desc_healthy">مكونات طبيعية وصحية 100%</string>
+
+        <string name="onboard_title_quality">جودة عالية</string>
+        <string name="onboard_desc_quality">منتجات بجودة ممتازة ترضي الجميع</string>
+
+
+
+
+
+</resources>

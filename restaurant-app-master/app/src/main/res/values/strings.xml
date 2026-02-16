@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RestaurantApp</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="btn_admin_login">Admin Login</string>
+    <string name="txt_enter_code">Enter Code</string>
+    <string name="txt_welcome">Welcome</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_first_name">First Name</string>
+    <string name="txt_last_name">Last Name</string>
+    <string name="txt_address">Address</string>
+    <string name="txt_phone">Phone</string>
+
+    <string name="btn_add_to_cart">Add to Cart</string>
+    <string name="btn_checkout">Checkout</string>
+    <string name="txt_quantity">Quantity</string>
+    <string name="txt_total">Total</string>
+    <string name="txt_grand_total">Grand Total</string>
+    <string name="txt_empty_cart">Your cart is empty</string>
+    <string name="txt_price">Price</string>
+    <string name="txt_description">Description</string>
+    <string name="currency_ils">NIS</string>
+
+    <string name="txt_credit_card">Credit Card</string>
+    <string name="txt_card_number">Card Number</string>
+    <string name="btn_pay">Pay</string>
+    <string name="btn_next">Next</string>
+
+    <string name="btn_save">Save</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_select_image">Choose Image</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_about">About</string>
+    <string name="nav_language">Change Language</string>
+    <string name="nav_logout">Logout</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_orders">Orders</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="tab_menu">Menu</string>
+    <string name="tab_reviews">Reviews</string>
+    <string name="tab_info">Info</string>
+
+    <string name="cat_desserts">Desserts</string>
+    <string name="cat_pastries">Pastries</string>
+    <string name="cat_drinks">Drinks</string>
+    <string name="cat_main_meals">Main Meals</string>
+    <string name="cat_appetizers">Appetizers</string>
+    <string name="cat_salads">Salads</string>
+    <string name="cat_soups">Soups</string>
+    <string name="txt_main_title">Main Title</string>
+    <string name="open_nav">Open navigation</string>
+    <string name="close_nav">Close navigation</string>
+
+
+
+    <string name="txt_loading">Loading...</string>
+    <string name="txt_error">Error</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_settings">Settings</string>
+    <string name="txt_contact">Contact Us</string>
+    <string name="txt_reviews">Reviews</string>
+    <string name="currency_shekel">Shekel</string>
+    <string name="txt_product_list">Product List</string>
+    <string name="txt_total_amount">Total Amount</string>
+    <string name="txt_my_account">My Account</string>
+    <string name="tab_login">Login</string>
+    <string name="tab_register">Sign Up</string>
+    <string name="tab_pastries">Pastries</string>
+    <string name="tab_sweets">Desserts</string>
+    <string name="onboard_title_fast">Fast Delivery</string>
+    <string name="onboard_desc_fast">We deliver your order quickly and safely</string>
+    <string name="onboard_title_healthy">Natural Products</string>
+    <string name="onboard_desc_healthy">100% natural and healthy ingredients</string>
+    <string name="onboard_title_quality">High Quality</string>
+    <string name="onboard_desc_quality">Excellent quality products that satisfy everyone</string>
+
+
+
+</resources>

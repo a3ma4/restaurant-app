@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="onboard_titles">
+        <item>@string/onboard_title_fast</item>
+        <item>@string/onboard_title_healthy</item>
+        <item>@string/onboard_title_quality</item>
+    </string-array>
+
+    <string-array name="onboard_descs">
+        <item>@string/onboard_desc_fast</item>
+        <item>@string/onboard_desc_healthy</item>
+        <item>@string/onboard_desc_quality</item>
+    </string-array>
+</resources>

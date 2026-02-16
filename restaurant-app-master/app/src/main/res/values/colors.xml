@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="truck_red">#FF0000</color>
+    <color name="truck_red_light">#FF5252</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#E53935</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="grayLight">#EEEEEE</color>
+    <color name="gray">#808080</color>
+    <color name="red_custom">#C10000</color>
+    <color name="nav_item_checked">#C10000</color>
+    <color name="nav_item_unchecked">#808080</color>
+    <color name="nav_checked">#C10000</color>
+    <color name="nav_unchecked">#808080</color>
+    <color name="non">#00808080</color>
+
+
+
+
+
+</resources>

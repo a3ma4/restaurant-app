@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/nav_home"
+        android:icon="@drawable/home_logo" />
+
+    <item
+        android:id="@+id/menu_orders"
+        android:title="@string/menu_orders"
+        android:icon="@drawable/list_logo" />
+
+    <item
+        android:id="@+id/menu_cart"
+        android:title="@string/nav_cart"
+        android:icon="@drawable/cart_logo" />
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="@string/txt_my_account"
+        android:icon="@drawable/profile_logo"/>
+
+</menu>
